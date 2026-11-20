@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "version": "1.0.40",
+    "notes": "1. 首页采用方案 A：卡片间距 14、底部 28、车模 176",
+    "downloadUrl": "https://github.com/Qkvsvh/nfckey-update/releases/download/app-1.0.40/NFCKey-iOS-1.0.40.ipa.zip"
+  },
+  "android": {
+    "version": "1.0.40",
+    "notes": "1. 首页布局与 iOS 方案 A 完全对齐：14 / 28 / 176",
+    "downloadUrl": "https://github.com/Qkvsvh/nfckey-update/releases/download/app-1.0.40/NFCKey-Android-1.0.40.apk"
+  }
+}
