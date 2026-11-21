@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "version": "1.0.41",
+    "notes": "1. 新增车辆围栏预连接：进入车周围 150m 自动快速重连\n2. 锁车时记录车位，锁屏回来不再等系统挂起重连",
+    "downloadUrl": "https://github.com/Qkvsvh/nfckey-update/releases/download/app-1.0.41/NFCKey-iOS-1.0.41.ipa.zip"
+  },
+  "android": {
+    "version": "1.0.41",
+    "notes": "1. 修复后台下载完成后点安装报 ActivityNotFound\n2. 安装改用 VIEW + setDataAndType，旧 action 兜底",
+    "downloadUrl": "https://github.com/Qkvsvh/nfckey-update/releases/download/app-1.0.41/NFCKey-Android-1.0.41.apk"
+  }
+}
